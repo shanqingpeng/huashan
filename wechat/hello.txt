@@ -1,0 +1,5 @@
+hello git xxxxx
+aaaa
+bbbb
+cccc modify by hot_fix2
+cccc edit by master
